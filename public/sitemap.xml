@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://animeweapons.org/</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/calculator</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/codes</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/tier-list</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/value-list</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/trading</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/guides</loc><lastmod>2025-12-02</lastmod></url>
+
+  <!-- Wiki categories -->
+  <url><loc>https://animeweapons.org/weapons</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/bosses</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/worlds</loc><lastmod>2025-12-02</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/demon-arts</loc><lastmod>2025-12-02</lastmod></url>
+
+  <!-- Worlds -->
+  <url><loc>https://animeweapons.org/wiki/worlds/frosted-origins</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/worlds/shattered-dunes</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/worlds/sky-citadel</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/worlds/demon-land</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/worlds/celestial-rift</loc><lastmod>2025-11-30</lastmod></url>
+
+  <!-- Bosses -->
+  <url><loc>https://animeweapons.org/wiki/bosses/itaxin</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/bosses/gekao</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/bosses/leopardo</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/bosses/alaza</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/bosses/obsidian-warden</loc><lastmod>2025-11-30</lastmod></url>
+
+  <!-- Weapons -->
+  <url><loc>https://animeweapons.org/wiki/weapons/blood-art</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/weapons/shark-sword</loc><lastmod>2025-11-27</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/weapons/sandstorm-rifle</loc><lastmod>2025-11-25</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/weapons/sky-piercer</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/weapons/rift-crescent</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/weapons/frost-dagger</loc><lastmod>2025-11-24</lastmod></url>
+
+  <!-- Demon Arts -->
+  <url><loc>https://animeweapons.org/wiki/demon-arts/void-reaver</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/demon-arts/storm-dancer</loc><lastmod>2025-11-28</lastmod></url>
+  <url><loc>https://animeweapons.org/wiki/demon-arts/crimson-lotus</loc><lastmod>2025-11-29</lastmod></url>
+
+  <!-- Trading Items -->
+  <url><loc>https://animeweapons.org/trading/item/blood-art</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/trading/item/shark-sword</loc><lastmod>2025-11-27</lastmod></url>
+  <url><loc>https://animeweapons.org/trading/item/sandstorm-rifle</loc><lastmod>2025-11-25</lastmod></url>
+  <url><loc>https://animeweapons.org/trading/item/rift-crescent</loc><lastmod>2025-11-30</lastmod></url>
+  <url><loc>https://animeweapons.org/trading/item/void-reaver</loc><lastmod>2025-11-30</lastmod></url>
+</urlset>

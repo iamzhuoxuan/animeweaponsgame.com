@@ -1,0 +1,17 @@
+# Anime Weapons robots.txt
+# https://animeweapons.org
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://animeweapons.org/sitemap.xml
+
+# Crawl-delay for politeness (optional)
+Crawl-delay: 1
+
+# Block common bot traps and unnecessary paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
